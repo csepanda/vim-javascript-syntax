@@ -211,7 +211,7 @@ if version >= 508 || !exists("did_javascript_syn_inits")
 	HiLink javaScriptOpSymbols              Operator
 	HiLink javaScriptLogicSymbols           Boolean
 	HiLink javaScriptBraces                 Function
-	HiLink javaScriptParens                 Operator
+	HiLink javaScriptParens                 Function
 	HiLink javaScriptTemplateDelim          Operator
 
 	HiLink javaScriptComment                Comment
